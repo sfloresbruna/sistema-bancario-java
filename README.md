@@ -1,4 +1,4 @@
-# curso-testes-software-java
+# sistema-bancario-java
 
 # Sistema Bancário — Testes de Software com Java
 
