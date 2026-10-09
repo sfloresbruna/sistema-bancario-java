@@ -2,7 +2,7 @@
 
 # Sistema Bancário — Testes de Software com Java
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 
 Este repositório reúne exercícios práticos desenvolvidos durante o curso de Testes de Software com Java.
 
