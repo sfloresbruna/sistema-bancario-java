@@ -1,5 +1,3 @@
-# sistema-bancario-java
-
 # Sistema Bancário — Testes de Software com Java
 
 ##  Sobre o projeto
