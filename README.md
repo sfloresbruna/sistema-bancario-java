@@ -17,7 +17,7 @@ O projeto **SistemaBancario** foi utilizado para praticar conceitos de programa�
 
 * **Java** — linguagem de programação.
 * **Eclipse IDE** — ambiente de desenvolvimento.
-* **JUnit** — framework de testes, caso confirmado na configuração do projeto.
+* **JUnit** — framework
 * **GitHub** — versionamento e compartilhamento do código.
 
 ## Estrutura do projeto
