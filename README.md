@@ -55,7 +55,6 @@ Os testes são utilizados para praticar a verificação do comportamento das cla
 3. Confira as configurações de Java e as bibliotecas de teste necessárias.
 4. Execute as classes de teste usando a configuração adequada do projeto.
 
-As instruções específicas de execução podem ser complementadas após a confirmação da versão do Java e da configuração do JUnit.
 
 ##  Aprendizados
 
@@ -63,6 +62,6 @@ Este projeto faz parte da minha jornada de aprendizado em programação Java e Q
 
 ## Autoria
 
-Projeto desenvolvido como exercício prático durante um curso de Testes de Software com Java.
+Projeto desenvolvido como exercício prático durante meu curso de Testes de Software com Java.
 
 Repositório destinado ao registro dos estudos e à construção do meu portfólio na área de tecnologia.
